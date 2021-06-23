@@ -1,0 +1,16 @@
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/install/strip.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/install/local.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/install.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/list_install_components.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/rebuild_cache.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/edit_cache.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/test.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/CMakeFiles/demo1.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/install/strip.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/install/local.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/install.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/list_install_components.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/rebuild_cache.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/edit_cache.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/test.dir
+/home/cs/MyLab/CMake-Lab/demo_1/build/math/CMakeFiles/math_lib.dir

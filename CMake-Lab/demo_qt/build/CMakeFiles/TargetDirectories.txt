@@ -1,0 +1,4 @@
+/home/cs/MyLab/CMake-Lab/demo_qt/build/CMakeFiles/rebuild_cache.dir
+/home/cs/MyLab/CMake-Lab/demo_qt/build/CMakeFiles/edit_cache.dir
+/home/cs/MyLab/CMake-Lab/demo_qt/build/CMakeFiles/demo_qt.dir
+/home/cs/MyLab/CMake-Lab/demo_qt/build/CMakeFiles/demo_qt_autogen.dir

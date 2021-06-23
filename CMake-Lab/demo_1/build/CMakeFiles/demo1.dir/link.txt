@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -ggdb  -rdynamic CMakeFiles/demo1.dir/main.cpp.o  -o demo1  math/libmath_lib.a 

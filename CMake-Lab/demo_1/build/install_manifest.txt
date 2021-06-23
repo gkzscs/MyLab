@@ -1,0 +1,4 @@
+/home/cs/MyLab/CMake-Lab/demo_1/build/./bin/demo1
+/home/cs/MyLab/CMake-Lab/demo_1/build/./include/config.h
+/home/cs/MyLab/CMake-Lab/demo_1/build/./bin/libmath_lib.a
+/home/cs/MyLab/CMake-Lab/demo_1/build/./include/math_func.h
