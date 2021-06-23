@@ -1,9 +1,10 @@
-#!/usr/bin/python3
+#! /usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Number
 print('-----------------Number--------------------')
 a, b, c, d = 123, 66.66, False, 1+2j
+
 print(a, b, c, d)
 print(type(a), type(b), type(c), type(d))
 print(isinstance(a, int), isinstance(b, float), isinstance(c, bool), isinstance(d, complex))
@@ -19,6 +20,17 @@ print(a // b)
 print(a * b)
 print(a % b)
 print(a ** b)
+
+# String
+print('\n------------------------String------------------------')
+strA, strB = 'abc', 'xyz'
+
+print(strA)
+print(strB)
+print(strA[::-1])
+print(strA[-1])
+print(strA[::2])
+print(strA + strB*2)
 
 # List
 print('\n---------------------List---------------------')
@@ -67,3 +79,15 @@ print(sa | sb)
 print(sa & sb)
 print(sa ^ sb)
 
+# Dictionary
+print('\n-------------------------Dictionary------------------------')
+da = {}
+db = { 'name': 'cs', 'age': 16, 12: 'number' }
+da[0] = db;
+da['name'] = 'gyy'
+
+print(da)
+print(db)
+print(da.keys(), da.values())
+print(da['name'])
+print(db['name'])
